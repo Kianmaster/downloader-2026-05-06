@@ -1,4 +1,4 @@
-# go1.26.3.windows-amd64.msi - Download Failed
+# go1.26.3.windows-amd64
 
 ---
 
@@ -6,29 +6,28 @@
 
 | Property | Value |
 |----------|-------|
-| **File** | `go1.26.3.windows-amd64.msi` |
-| **URL** | https://go.dev/d1/go1.26.3.windows-amd64.msi |
-| **Date** | 2026-05-08 14:43:56 UTC |
-| **Status** | **FAILED** |
+| **Original File** | `go1.26.3.windows-amd64.msi` |
+| **Total Size** | **2 parts** - **59.39 MB** |
+| **Status** | **Complete (100%)** |
+| **Password Protected** | **NO** |
 
 ---
 
-## Error Details
+## Download Links
 
-```
-Download failed after 3 attempts. Last error: curl: (22) The requested URL returned error: 404
-```
+| # | File | Link |
+|---|------|------|
+| 1 | `go1.26.3.windows-amd64.7z.001` | [Download](https://github.com/Kianmaster/downloader-2026-05-06/raw/main/downloads/go1.26.3.windows-amd64/go1.26.3.windows-amd64.7z.001) |
+| 2 | `go1.26.3.windows-amd64.7z.002` | [Download](https://github.com/Kianmaster/downloader-2026-05-06/raw/main/downloads/go1.26.3.windows-amd64/go1.26.3.windows-amd64.7z.002) |
 
 ---
 
-## Possible Solutions
+## How to Extract
 
-- Check if the URL is correct and accessible
-- The file may have been removed or moved
-- The server may require authentication
-- For SourceForge: Try using the direct download link
-- Some servers block automated downloads (403 Forbidden)
-- Try again later if it is a temporary server issue
+1. **Download** all parts (e.g. `.7z.001`, `.7z.002`...)
+2. **Install** [7-Zip](https://www.7-zip.org/) (Windows/Linux) or [Keka](https://www.keka.io/) (Mac)
+3. **Right-click** the `.7z.001` file → Extract Here
+4. All parts combine automatically into the original file
 
 ---
 
